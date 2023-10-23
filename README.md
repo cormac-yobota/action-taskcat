@@ -1,3 +1,5 @@
+> **_NOTE:_**  This is a fork of [ShahradR/action-taskcat](https://github.com/ShahradR/action-taskcat) as there's an [issue](https://github.com/ShahradR/action-taskcat/issues/350.) with the docker build.
+
 # action-taskcat
 
 [![Tests](https://img.shields.io/github/workflow/status/ShahradR/action-taskcat/CI%20workflow?logo=github)](https://github.com/ShahradR/action-taskcat/actions?query=workflow%3ATests) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ShahradR_action-taskcat&metric=alert_status)](https://sonarcloud.io/dashboard?id=ShahradR_action-taskcat)
