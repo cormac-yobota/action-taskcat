@@ -1,9 +1,9 @@
 ---
-name: Run taskcat tests
+name: Run taskcat
 author: Cormac Murphy via Shahrad Rezaei
 description: |
   Fork of the unofficial GitHub Action to run taskcat tests and validate your AWS
-  CloudFormation templates, which works around https://github.com/ShahradR/action-taskcat/issues/350
+  CloudFormation templates.
 
 branding:
   icon: check-square
